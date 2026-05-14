@@ -99,3 +99,4 @@ backend/
 - La base de datos `proyecto_db` debe existir (ver proyecto `database/`)
 - El servidor se reiniciará automáticamente en modo desarrollo si usas `npm run dev`
 # update
+Pipeline actualizado
